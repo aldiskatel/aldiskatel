@@ -1,6 +1,10 @@
-Host: https://aldiskatel.net
+<h1 align="center">HI, I'm Aldi 👋</h1>
+<p align="center">Host: https://aldiskatel.net</p>
 
-Lets do something fun :+1: <img align='right' src="https://github-readme-stats.vercel.app/api?username=aldiskatel&count_private=true&show_icons=true&include_all_commits=true&hide_rank=false&hide_title=false" width=460>
+<h3>Find me around the web 🌏</h3>
+<ul>
+  <li>My personal web <a href="https://aldiskatel.net" target="_blank">here</a></li>
+</ul>
 
 - [x] Learn📚
 - [x] Build🚀
@@ -9,3 +13,7 @@ Lets do something fun :+1: <img align='right' src="https://github-readme-stats.v
 I'm a software engineer
 
 Sometimes I disclose my projects to OpenSource.
+
+<br />
+<p><img src="https://github-readme-stats.vercel.app/api?username=aldiskatel&show_icons=true&theme=nightowl&locale=en" alt="aldiskatel" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldiskatel" alt="aldiskatel" /></a></p>
