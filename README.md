@@ -1,10 +1,7 @@
 <h1 align="center">HI, I'm Aldi 👋</h1>
-<p align="center">Host: https://aldiskatel.net</p>
+<p align="center">https://aldiskatel.net</p>
 
 <h3>Find me around the web 🌏</h3>
-<ul>
-  <li>My personal web <a href="https://aldiskatel.net" target="_blank">here</a></li>
-</ul>
 
 - [x] Learn📚
 - [x] Build🚀
