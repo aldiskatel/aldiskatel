@@ -1,4 +1,20 @@
-<h1 align="center">HI, I'm Aldi 👋</h1>
+---
+```python
+class say_hello:
+
+    def __init__(self, text) -> None:
+        self.text = text
+
+    def __str__(self) -> str:
+        return self.text
+
+    def __repr__(self) -> str:
+        return self.__str__()
+
+if __name__ == "__main__":
+    print(say_hello("HI, I'm Aldi 👋"))
+```
+---
 <p align="center">https://aldiskatel.net</p>
 
 <h3>Find me around the web 🌏</h3>
