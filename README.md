@@ -2,7 +2,8 @@
 <!--     https://neumedira.com x https://aldiskatel.net x https://borneokoding.org
 </br></br> -->
 💰<b>Donation</b>💰</br>
-<a href="https://saweria.co/aldiskatel"><img src="https://github.com/aldiskatel/aldiskatel/blob/2897ebefb258d0a0789b7a2c9092b68629a9161b/Screen%20Shot%202022-01-18%20at%2000.51.46.png" width="250" /></a></p>
+<!-- <a href="https://saweria.co/aldiskatel"><img src="https://github.com/aldiskatel/aldiskatel/blob/2897ebefb258d0a0789b7a2c9092b68629a9161b/Screen%20Shot%202022-01-18%20at%2000.51.46.png" width="250" /></a> -->0xb035f7feB3dbFFA7A9e48E281cA01C047FC76b82
+</p>
 
 <!--
 ___
