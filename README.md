@@ -2,7 +2,8 @@
 <!--     https://neumedira.com x https://aldiskatel.net x https://borneokoding.org
 </br></br> -->
 💰<b>Donation</b>💰</br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X4AQ129)
+<a href="https://ko-fi.com/X8X4AQ129">ko-fi.com/aldiskatel</a>
+</p>
 <!--
 ___
 ![Metrics](https://github.com/MhankBarBar/MhankBarBar/blob/master/github-metrics.svg)
