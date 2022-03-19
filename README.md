@@ -4,16 +4,7 @@
 💰<b>Donation</b>💰</br>
 <a href="https://ko-fi.com/X8X4AQ129">ko-fi.com/aldiskatel</a>
 </p>
-<!--
-___
-![Metrics](https://github.com/MhankBarBar/MhankBarBar/blob/master/github-metrics.svg)
-___
--->
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=auto)](https://github.com/mhankbarbar/termux-wabot)
--->
----
-<!--START_SECTION:waka-->
+<hr>
 <h3>Find me around the web 🌏</h3>
 
 - [x] Learn📚
@@ -23,6 +14,3 @@ ___
 I'm a software engineer
 
 Sometimes I disclose my projects to OpenSource.
-
-<br />
-<p><img src="https://github-readme-stats.vercel.app/api?username=aldiskatel&show_icons=true&theme=nightowl&locale=en" alt="aldiskatel" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldiskatel" alt="aldiskatel" /></a></p>
