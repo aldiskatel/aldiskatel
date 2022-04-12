@@ -14,3 +14,6 @@
 I'm a software engineer
 
 Sometimes I disclose my projects to OpenSource.
+
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldiskatel&theme=vue)
+![image](https://activity-graph.herokuapp.com/graph?username=aldiskatel&theme=minimal)
